@@ -1,0 +1,156 @@
+{
+    "ats_score": 75,
+    "resume_summary": {
+        "name": "ROHAN GOYAL",
+        "total_experience_years": 0.5,
+        "education": [
+            "B.Tech in Computer Science & Technology",
+            "Senior Secondary Examination CBSE - Class XII",
+            "Higher Secondary Examination CBSE - Class X"
+        ],
+        "skills": [
+            "Typescript",
+            "NodeJs",
+            "MYSQL",
+            "MongoDB",
+            "Amazon S3",
+            "Zoho APIs",
+            "C",
+            "C++",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Node.js",
+            "ExpressJs",
+            "Ejs",
+            "Bootstrap",
+            "Git",
+            "Github",
+            "RESTful web services",
+            "Data Structures & Algorithms",
+            "Object Oriented Programming",
+            "Operating System",
+            "Database Management System",
+            "Computer Networks",
+            "System Design",
+            "PassportJS",
+            "JWTs",
+            "Agora Framework"
+        ],
+        "certifications": [
+            "Google Cloud Ready Facilitator Program"
+        ]
+    },
+    "strengths": [
+        "Strong academic record (9.06 CPI in B.Tech)",
+        "Relevant internship experience at Electrade",
+        "Multiple projects showcased on GitHub",
+        "Contributions to open-source projects (Hacktoberfest)",
+        "Leadership roles in student organizations",
+        "Impressive extracurricular activities (YouTube channel)"
+    ],
+    "weaknesses": [
+        "Resume formatting inconsistencies and use of emojis",
+        "Lack of quantifiable achievements in some sections",
+        "Inconsistent use of capitalization and punctuation",
+        "Limited professional experience (only internship)"
+    ],
+    "missing_keywords": [
+        "Agile",
+        "Scrum",
+        "Software Development Life Cycle (SDLC)",
+        "API Integration",
+        "Cloud Computing",
+        "DevOps"
+    ],
+    "missing_soft_skills": [
+        "Teamwork",
+        "Communication",
+        "Problem-solving"
+    ],
+    "missing_hard_skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes"
+    ],
+    "missing_certifications": [
+        "AWS Certified Developer",
+        "CompTIA Cloud+"
+    ],
+    "suggestions_for_improvement": [
+        "Use a professional resume template with consistent formatting.",
+        "Quantify achievements whenever possible (e.g., 'Improved efficiency by X%').",
+        "Proofread carefully for grammar and spelling errors.",
+        "Use action verbs to start each bullet point in the experience section.",
+        "Expand on project descriptions, highlighting your contributions and technical skills.",
+        "Add a summary/objective statement at the beginning to showcase your skills and career goals.",
+        "Remove emojis and informal language.",
+        "Tailor the resume to each job application by highlighting relevant skills and experiences."
+    ],
+    "certification_recommendations": [
+        {
+            "skill": "AWS",
+            "recommended_courses": [
+                "AWS Certified Developer - Associate",
+                "AWS Fundamentals"
+            ]
+        },
+        {
+            "skill": "DevOps",
+            "recommended_courses": [
+                "Docker Fundamentals",
+                "Kubernetes Fundamentals"
+            ]
+        }
+    ],
+    "job_role_recommendations": [
+        {
+            "job_role": "Software Engineer",
+            "match_percentage": 80,
+            "missing_skills": [
+                "Agile",
+                "Scrum",
+                "AWS"
+            ],
+            "reason": "Strong programming skills and project experience"
+        },
+        {
+            "job_role": "Full Stack Developer",
+            "match_percentage": 75,
+            "missing_skills": [
+                "React",
+                "Angular",
+                "DevOps"
+            ],
+            "reason": "Proficiency in both front-end and back-end technologies"
+        },
+        {
+            "job_role": "Backend Developer",
+            "match_percentage": 85,
+            "missing_skills": [
+                "Microservices",
+                "API Gateway"
+            ],
+            "reason": "Extensive experience with Node.js and database technologies"
+        },
+        {
+            "job_role": "API Developer",
+            "match_percentage": 90,
+            "missing_skills": [
+                "API Security",
+                "Swagger"
+            ],
+            "reason": "Demonstrated experience in designing and developing APIs"
+        },
+        {
+            "job_role": "Software Development Engineer in Test (SDET)",
+            "match_percentage": 70,
+            "missing_skills": [
+                "Selenium",
+                "Test Automation Frameworks"
+            ],
+            "reason": "Experience in bug fixing and demonstrated problem-solving skills"
+        }
+    ],
+    "final_verdict": "A promising resume with strong academic and project experience, but needs improvement in formatting, quantifiable achievements, and inclusion of relevant keywords and certifications to maximize ATS compatibility."
+}

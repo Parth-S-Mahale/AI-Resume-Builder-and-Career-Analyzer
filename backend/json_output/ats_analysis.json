@@ -1,0 +1,179 @@
+{
+  "ats_score": 88,
+  "resume_summary": {
+    "name": "Kian Marshall",
+    "total_experience_years": 10,
+    "education": [
+      "M.S. Computer Science & Engineering",
+      "B.S. Computer Science"
+    ],
+    "skills": {
+      "languages": [
+        "JavaScript"
+      ],
+      "frameworks": [
+        "React"
+      ],
+      "tools": [
+        "Google Cloud SDK",
+        "Google Cloud Storage",
+        "Google Cloud Platform",
+        "Google Cloud Run",
+        "Google Cloud Natural Language API",
+        "Slack",
+        "Google Cloud Armor",
+        "Prometheus",
+        "Microsoft Office Suite",
+        "Windows OS",
+        "Azure"
+      ],
+      "computerScience": [
+        "Microservices",
+        "CI/CD",
+        "Web Application Performance Optimization",
+        "Data Management",
+        "Web Security",
+        "DDoS Mitigation"
+      ],
+      "softskills": [
+        "Leadership",
+        "Problem-solving",
+        "Efficiency",
+        "Reliability",
+        "Collaboration",
+        "Analytical Skills",
+        "Project Management",
+        "User Experience",
+        "Team Productivity"
+      ]
+    },
+    "certifications": [
+      "Google Associate Android Developer Certification"
+    ]
+  },
+  "strengths": [
+    "Strong educational background with degrees from top universities (University of Washington, MIT).",
+    "Extensive work experience (nearly 10 years) in reputable tech companies (Microsoft, Amazon).",
+    "Quantifiable achievements demonstrating significant impact (e.g., 15% user efficiency increase, 29% improved boot time, 32% operational cost reduction, 63% DDoS risk reduction).",
+    "Proficiency in modern cloud platforms and services (Google Cloud Platform, Azure).",
+    "Experience with critical software development practices like microservices and CI/CD.",
+    "Proven ability to lead and spearhead significant projects.",
+    "Demonstrated skills in web application development, optimization, and security."
+  ],
+  "weaknesses": [
+    "No professional summary or objective statement at the beginning of the resume.",
+    "Limited diversity in explicitly mentioned programming languages (primarily JavaScript).",
+    "Skills section could be more organized into clearer categories (e.g., Databases, Version Control).",
+    "Missing common software development tools/practices like Git, Docker, or specific database technologies.",
+    "Only one certification is listed, which is mobile-focused, while experience is broader."
+  ],
+  "missing_keywords": [
+    "Git",
+    "SQL",
+    "RESTful APIs",
+    "Agile",
+    "Scrum",
+    "Containerization",
+    "Kubernetes"
+  ],
+  "missing_soft_skills": [
+    "Adaptability",
+    "Mentorship"
+  ],
+  "missing_hard_skills": [
+    "Node.js",
+    "Docker",
+    "SQL Databases"
+  ],
+  "missing_certifications": [
+    "Microsoft Certified: Azure Developer Associate",
+    "Google Cloud Professional Cloud Developer"
+  ],
+  "suggestions_for_improvement": [
+    "Add a concise professional summary or objective statement to immediately highlight qualifications and career goals.",
+    "Include a LinkedIn profile URL and potentially a GitHub link to showcase projects and code.",
+    "Organize the 'Skills' section into clearer categories like 'Programming Languages', 'Cloud Platforms', 'Databases', 'Version Control', 'CI/CD Tools', etc.",
+    "Explicitly mention experience with version control systems like Git and any database technologies.",
+    "Consider adding a 'Projects' section to highlight personal or independent development work.",
+    "Tailor the resume with keywords specific to each job description to maximize ATS match rates.",
+    "Emphasize or explicitly mention more soft skills (e.g., 'mentored junior developers' if applicable).",
+    "Pursue additional cloud or development certifications relevant to desired roles."
+  ],
+  "certification_recommendations": [
+    {
+      "skill": "Cloud Development",
+      "recommended_courses": [
+        "Google Cloud Professional Cloud Developer",
+        "Microsoft Certified: Azure Developer Associate"
+      ]
+    },
+    {
+      "skill": "Containerization & Orchestration",
+      "recommended_courses": [
+        "Docker Certified Associate (DCA)",
+        "Certified Kubernetes Application Developer (CKAD)"
+      ]
+    },
+    {
+      "skill": "Database Management",
+      "recommended_courses": [
+        "Microsoft Certified: Azure Database Administrator Associate",
+        "PostgreSQL Certification"
+      ]
+    }
+  ],
+  "job_role_recommendations": [
+    {
+      "job_role": "Software Engineer",
+      "match_percentage": 95,
+      "missing_skills": [
+        "Backend Frameworks (e.g., Node.js with Express, Java Spring)",
+        "Database Management (SQL/NoSQL)",
+        "API Design (RESTful)"
+      ],
+      "reason": "Directly aligns with core development experience, strong impact metrics, and cloud integration expertise."
+    },
+    {
+      "job_role": "Cloud Engineer",
+      "match_percentage": 90,
+      "missing_skills": [
+        "Broader Cloud Architecture Patterns",
+        "Specific Cloud Certifications (e.g., AWS Solutions Architect)"
+      ],
+      "reason": "Extensive experience with Google Cloud Platform services, cloud migration (Azure), and cloud-native application optimization."
+    },
+    {
+      "job_role": "DevOps Engineer",
+      "match_percentage": 85,
+      "missing_skills": [
+        "Docker",
+        "Kubernetes",
+        "Configuration Management (e.g., Ansible, Terraform)",
+        "Scripting (e.g., Python, Bash)"
+      ],
+      "reason": "Proven experience implementing CI/CD pipelines, migrating to cloud infrastructure, and using monitoring tools like Prometheus."
+    },
+    {
+      "job_role": "Site Reliability Engineer",
+      "match_percentage": 80,
+      "missing_skills": [
+        "Incident Response",
+        "Network Troubleshooting",
+        "Linux System Administration"
+      ],
+      "reason": "Strong focus on improving system reliability, reducing deployment times, and monitoring with Prometheus indicates SRE potential."
+    },
+    {
+      "job_role": "Frontend Developer",
+      "match_percentage": 75,
+      "missing_skills": [
+        "UI/UX Design Principles",
+        "State Management Libraries (e.g., Redux)",
+        "Modern CSS Frameworks",
+        "Frontend Testing Frameworks (e.g., Jest)"
+      ],
+      "reason": "Solid foundation in JavaScript and React, with experience in web application optimization and user experience improvements."
+    }
+  ],
+  "final_verdict": "Kian Marshall's resume showcases a highly experienced software engineer with a strong academic background and impressive quantifiable achievements in cloud migration, performance optimization, and system reliability, making it highly competitive for engineering roles, though a few structural and keyword additions would further boost its ATS compatibility."
+}
